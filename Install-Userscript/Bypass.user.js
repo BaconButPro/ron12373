@@ -14,8 +14,7 @@
 // @match       https://loot-links.com/s?*
 // @match       https://lootlink.org/s?*
 // @match       https://lootlinks.co/s?*
-// @match       https://gateway.platoboost.com/a/2569?id=*
-// @match       https://gateway.platoboost.com/a/8?id=*
+// @match       https://gateway.platoboost.com/a/*
 // @match       *://*.keyrblx.com/*
 // @match       https://lootdest.info/s?*
 // @match       https://lootdest.org/s?*
@@ -35,8 +34,6 @@
 // @match       https://workink.net/*/*
 // @match       https://paster.so/*
 // @match       https://bstlar.com/*
-// @match       https://gateway.platoboost.com/a/39097?id=*
-// @match       https://gateway.platoboost.com/a/54658?id=*
 // @match       https://sub2unlock.com/*
 // @match       https://*.sub2get.com/*
 // @match       https://boost.ink/*
