@@ -2,7 +2,7 @@
 // @name         Bypass Key System [Premium]
 // @homepageURL  https://discord.gg/gFNAH7WNZj
 // @namespace    https://tampermonkey.net/
-// @version      2.2.7
+// @version      2.2.8
 // @description  Premium Userscript Helping you Passing The Adlink
 // @author       Bacon But Pro
 // @match        *://linkvertise.com/*/*
@@ -16,7 +16,7 @@
 // @match        *://lootdest.com/s?*
 // @match        *://links-loot.com/s?*
 // @match        *://linksloot.net/s?*
-// @match        *://spdmteam.com/key-system*
+// @match        *://spdmteam.com/*
 // @match        *://rekonise.com/*
 // @match        *://rekonise.org/*
 // @match        *://linkunlocker.com/*
