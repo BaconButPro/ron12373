@@ -2,7 +2,7 @@
 // @name         Bypass Key System [Premium]
 // @homepageURL  https://discord.gg/gFNAH7WNZj
 // @namespace    https://tampermonkey.net/
-// @version      3.0.0
+// @version      3.0.1
 // @description  Premium Userscript Helping you Passing The Adlink
 // @author       Bacon But Pro
 // @match        *://linkvertise.com/*/*
@@ -59,6 +59,12 @@
 // @match        *://hehehub-acsu123.pythonanywhere.com/api/getkey?hwid=*
 // @match        *://key.thanhub.com/*
 // @match        *://lockr.so/1dMPdKCyf*
+// @match        *://nirbytes.com/sub2unlock/*
+// @match        *://scriptpastebins.com/*
+// @match        *://robloxscripts.gg/*
+// @match        *://linkzy.space/u/*
+// @match        *://neoxsoftworks.eu/key.html*
+// @match        *://ntt-hub.xyz/key/get-key*
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/style.js
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
@@ -95,7 +101,7 @@ function key() {
 function config() {
     return {
         auto_copy: 'true', // Auto Copy: 'true' or 'false'
-        lootlabs_v2: false, // lootlabs v2 Bypass
+        lootlabs_v2: true, // lootlabs v2 Bypass
         buttonUrl: [''], // Enter Url Want to show Button
         linkvertise_delay: 0 // Delay Before redirect
     };
