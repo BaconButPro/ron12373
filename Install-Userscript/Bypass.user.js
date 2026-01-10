@@ -2,7 +2,7 @@
 // @name         Bypass Key System [Premium]
 // @homepageURL  https://discord.gg/gFNAH7WNZj
 // @namespace    https://tampermonkey.net/
-// @version      3.0.1
+// @version      3.0.2
 // @description  Premium Userscript Helping you Passing The Adlink
 // @author       Bacon But Pro
 // @match        *://linkvertise.com/*/*
@@ -65,6 +65,8 @@
 // @match        *://linkzy.space/u/*
 // @match        *://neoxsoftworks.eu/key.html*
 // @match        *://ntt-hub.xyz/key/get-key*
+// @match        *://yeulink.com/*
+// @match        *://link4m.com/*
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/style.js
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
@@ -91,6 +93,25 @@
 // @connect      auth.platoboost.app
 // @connect      auth.platoboost.net
 // @connect      auth.platoboost.me
+// @connect      hitclub.com.pe
+// @connect      nullsbrawl.it.com
+// @connect      hitclub.pro
+// @connect      elki.in.net
+// @connect      bong88.co.com
+// @connect      turkishdelight.uk.com
+// @connect      kazino.it.com
+// @connect      watermark.it.com
+// @connect      services-centers-india.in.net
+// @connect      ayacy.sa.com
+// @connect      nudyworld.in.net
+// @connect      eatables.in.net
+// @connect      in2017.us.com
+// @connect      kqbd.one
+// @connect      ahutm.ru.com
+// @connect      inmobiliariaarcos.com.co
+// @connect      b88.it.com
+// @connect      wealthier.uk.com
+// @connect      thabet.se.net
 // @icon         https://cdn141.picsart.com/351217840073211.png
 // ==/UserScript==
 
