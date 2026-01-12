@@ -72,6 +72,7 @@
 // @match        *://*.hcaptcha.com/*
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/style.js
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
+// @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
