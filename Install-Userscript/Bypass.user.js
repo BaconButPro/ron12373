@@ -70,6 +70,7 @@
 // @match        *://www.google.com/recaptcha/api2/*
 // @match        *://www.gstatic.com/recaptcha/releases/*
 // @match        *://*.hcaptcha.com/*
+// @match        *://sub4unlock.co/*
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/style.js
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
