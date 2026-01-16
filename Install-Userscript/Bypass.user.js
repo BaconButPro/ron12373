@@ -67,9 +67,6 @@
 // @match        *://ntt-hub.xyz/key/get-key*
 // @match        *://yeulink.com/*
 // @match        *://link4m.com/*
-// @match        *://www.google.com/recaptcha/api2/*
-// @match        *://www.gstatic.com/recaptcha/releases/*
-// @match        *://*.hcaptcha.com/*
 // @match        *://sub4unlock.co/*
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/style.js
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
@@ -110,7 +107,6 @@ function config() {
         auto_copy: 'true', // Auto Copy: 'true' or 'false'
         lootlabs_v2: true, // lootlabs v2 Bypass
         buttonUrl: [''], // Enter Url Want to show Button
-        linkvertise_delay: 0, // Delay Before redirect
-        Open_Captcha: false // Auto Open Captcha
+        linkvertise_delay: 0 // Delay Before redirect
     };
 }
