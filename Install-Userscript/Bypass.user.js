@@ -2,7 +2,7 @@
 // @name         Bypass Key System [Premium]
 // @homepageURL  https://discord.gg/gFNAH7WNZj
 // @namespace    https://tampermonkey.net/
-// @version      3.0.8
+// @version      3.0.9
 // @description  Premium Userscript Helping you Passing The Adlink
 // @author       Bacon But Pro
 // @match        *://linkvertise.com/*/*
@@ -22,7 +22,7 @@
 // @match        *://linkunlocker.com/*
 // @match        *://mboost.me/*
 // @match        *://go.linkify.ru/*
-// @match        *://blox-script.com/get-key*
+// @match        *://boblox-script.com/get-key*
 // @match        *://paster.so/*
 // @match        *://sub2unlock.io/*
 // @match        *://sub4unlock.pro/*
@@ -68,7 +68,6 @@
 // @match        *://yeulink.com/*
 // @match        *://link4m.com/*
 // @match        *://sub4unlock.co/*
-// @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/style.js
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
 // @grant        GM.xmlHttpRequest
@@ -92,7 +91,6 @@
 // @connect      linksloot.net
 // @connect      auth.platorelay.com
 // @connect      auth.platoboost.app
-// @connect      auth.platoboost.net
 // @connect      auth.platoboost.me
 // @connect      *
 // @icon         https://cdn141.picsart.com/351217840073211.png
