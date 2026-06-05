@@ -57,16 +57,11 @@
 // @match        *://quartyz.com/*
 // @match        *://bstshrt.com/*
 // @match        *://hehehub-acsu123.pythonanywhere.com/api/getkey?hwid=*
-// @match        *://key.thanhub.com/*
-// @match        *://lockr.so/1dMPdKCyf*
-// @match        *://nirbytes.com/sub2unlock/*
 // @match        *://scriptpastebins.com/*
 // @match        *://robloxscripts.gg/*
 // @match        *://linkzy.space/u/*
-// @match        *://neoxsoftworks.eu/key.html*
-// @match        *://ntt-hub.xyz/key/get-key*
+// @match        *://neoxsoftworks.eu/key*
 // @match        *://yeulink.com/*
-// @match        *://link4m.com/*
 // @match        *://sub4unlock.co/*
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
