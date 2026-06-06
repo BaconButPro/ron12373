@@ -16,6 +16,7 @@
 // @match        *://lootdest.com/s?*
 // @match        *://links-loot.com/s?*
 // @match        *://linksloot.net/s?*
+// @match        *://links.lootlabs.gg/s?*
 // @match        *://spdmteam.com/*
 // @match        *://rekonise.com/*
 // @match        *://rekonise.org/*
@@ -98,7 +99,6 @@ function key() {
 function config() {
     return {
         auto_copy: 'true', // Auto Copy: 'true' or 'false'
-        lootlabs_v2: true, // lootlabs v2 Bypass
         buttonUrl: [''], // Enter Url Want to show Button
         linkvertise_delay: 0 // Delay Before redirect
     };
