@@ -2,7 +2,7 @@
 // @name         Bypass Key System [Premium]
 // @homepageURL  https://discord.gg/gFNAH7WNZj
 // @namespace    https://tampermonkey.net/
-// @version      0.0.2
+// @version      0.0.3
 // @description  Premium Userscript Helping you Passing The Adlink
 // @author       Bacon But Pro
 // @match        *://linkvertise.com/*/*
@@ -39,22 +39,11 @@
 // @match        *://socialwolvez.com/*
 // @match        *://boost.ink/*
 // @match        *://social-unlock.com/*
-// @match        *://mobile.codex.lol/*
-// @match        *://auth.platoboost.com/*
-// @match        *://auth.platoboost.click/*
-// @match        *://auth.platoboost.net/*
-// @match        *://auth.platorelay.com/*
-// @match        *://auth.platoboost.app/*
-// @match        *://auth.platoboost.me/*
-// @match        *://keyrblx.com/*
 // @match        *://bstlar.com/*
-// @match        *://pandadevelopment.net/getkey?*
 // @match        *://link-unlock.com/*
 // @match        *://link2unlock.com/*
 // @match        *://archub.dev/key-system/getkey?hwid=*
-// @match        *://deltaios-executor.com/ads.html?URL=*
 // @match        *://*.tapvietcode.com/*
-// @match        *://getkey.farrghii.com/*
 // @match        *://quartyz.com/*
 // @match        *://bstshrt.com/*
 // @match        *://hehehub-acsu123.pythonanywhere.com/api/getkey?hwid=*
@@ -62,8 +51,8 @@
 // @match        *://robloxscripts.gg/*
 // @match        *://linkzy.space/u/*
 // @match        *://neoxsoftworks.eu/key*
-// @match        *://yeulink.com/*
 // @match        *://sub4unlock.co/*
+// @match        *://ads.luarmor.net/*
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
 // @grant        GM.xmlHttpRequest
