@@ -88,6 +88,10 @@ function key() {
 function config() {
     return {
         buttonUrl: [''], // Enter Url Want to show Button
-        linkvertise_delay: 0 // Delay Before redirect
+        linkvertise_delay: {
+            main: 0, // Default delay for all links
+            'ads.luarmor.net': 15
+            // You can add more domains here
+        }
     };
 }
