@@ -87,7 +87,6 @@ function key() {
 
 function config() {
     return {
-        auto_copy: 'true', // Auto Copy: 'true' or 'false'
         buttonUrl: [''], // Enter Url Want to show Button
         linkvertise_delay: 0 // Delay Before redirect
     };
